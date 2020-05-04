@@ -1,5 +1,5 @@
 # ProjectNeuron
-📚 Prediction of price degrees in car industry, producted cars
+📚 Prediction of price degrees in car industry or producted cars
 
 
 # NEURAL NETWORK 
